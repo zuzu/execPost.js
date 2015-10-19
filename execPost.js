@@ -2,7 +2,7 @@
  * データをPOSTする
  * @param String アクション
  * @param Object POSTデータ連想配列
- * http://fujiiyuuki.blogspot.jp/2010/09/formjspost.html
+ * 記述元Webページ http://fujiiyuuki.blogspot.jp/2010/09/formjspost.html
  */
 function execPost(action, data) {
  // フォームの生成
